@@ -324,9 +324,9 @@ Your breakdowns and graph should look similar to this (with different numbers):
 
 What you should have at this point:
 
-* [ ]Starterpack with a new route for your A/B Test
-* [ ]The A/B Test with two variants: The question "Continue?" above the yes/no buttons in one variant and below the buttons in another.
-* [ ]Mixpanel should be able to track whenever someone "plays" the experiment or there's a "win"
+* [ ] Starterpack with a new route for your A/B Test
+* [ ] The A/B Test with two variants: The question "Continue?" above the yes/no buttons in one variant and below the buttons in another.
+* [ ] Mixpanel should be able to track whenever someone "plays" the experiment or there's a "win"
 
 ## Summary / What you Learned
 
